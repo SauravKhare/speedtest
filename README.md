@@ -18,6 +18,8 @@ The Code was made Beautiful and Mobile Resonsive using Skeleton https://github.c
 - Skeleton https://github.com/dhg/Skeleton
 - Bootstrap http://getbootstrap.com
 - JustGage http://justgage.com
-- Google Fonts
+- Google Fonts https://fonts.google.com
 
+# Read It!
 
+This is just an updated version of "HTML5 Speedtest" by Federico Dossena (https://github.com/adolfintel). See the original HTML5 Speed Test at https://github.com/adolfintel/speedtest
