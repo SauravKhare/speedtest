@@ -1,2 +1,2 @@
-# speedtest
+# SpeedTest
 Simple Lightweight Internet Speed Test Using HTML &amp; JavaScript
