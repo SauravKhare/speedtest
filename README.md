@@ -9,7 +9,15 @@ The Code was made Beautiful and Mobile Resonsive using Skeleton https://github.c
 # Requirements
 
 - A reasonably fast web server. PHP is optional but recommended.
-- Some way to generate garbage data (PHP script included, see doc.pdf for other solutions).
+- Some way to generate garbage data..
 - Your server must accept large POST requests (up to 20 Megabytes), otherwise the upload test will fail.
 - It's also better if your server does not use compression, but it's not mandatory
+
+# Things used to modifie the code.
+
+- Skeleton https://github.com/dhg/Skeleton
+- Bootstrap http://getbootstrap.com
+- JustGage http://justgage.com
+- Google Fonts
+
 
