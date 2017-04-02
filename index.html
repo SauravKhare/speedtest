@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Speed Test</title>
+  <meta name="description" content="The Most Light Weight Speed Test For Internet Connection. Test Your Internet Speed!">
+  <meta name="author" content="Saurav Khare">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+  <!-- JavaScript
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.4/raphael-min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/justgage/1.2.2/justgage.min.js"></script>
+  <script src="js/thecore.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  
+	<nav class="navbar navbar-light">
+            <a class="navbar-brand" href="#"><h1>Speed Test</h1></a>
+    </nav>
+	<br>
+	<br>
+	<br>
+	<br>
+
+    <div class="container-fluid">
+	<div class="row">
+	<div id="testArea">
+	
+            <div class="col-sm"><div class="meter" id="ggdl"></div></div>
+            <div class="col-sm"><div class="meter" id="ggul"></div></div>
+            <div class="col-sm"><div class="meter" id="ggping"></div></div>
+        </div>
+		</div>
+        <div>
+            <a href="javascript:runTest()"   id="startBtn" class="btn btn-primary btn-lg">Start</a>
+            <a href="javascript:abortTest()" id="abortBtn" class="btn btn-primary btn-lg" style="display:none;">Stop</a>
+        </div>
+        <br>
+		<p>Fonts: <a href="https://fonts.google.com/">Google Gonts</a> | Gauges: <a href="http://justgage.com/">justgage.com</a></p>
+      
+      
+    </div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
