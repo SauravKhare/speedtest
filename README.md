@@ -20,6 +20,10 @@ The Code was made Beautiful and Mobile Resonsive using Skeleton https://github.c
 - JustGage http://justgage.com
 - Google Fonts https://fonts.google.com
 
+# Try It Now! 
+
+Test your Internet Speed at http://hasty.ml
+
 # Read It!
 
 This is just an updated version of "HTML5 Speedtest" by Federico Dossena (https://github.com/adolfintel). See the original HTML5 Speed Test at https://github.com/adolfintel/speedtest
