@@ -22,7 +22,7 @@ The Code was made Beautiful and Mobile Resonsive using Skeleton https://github.c
 
 # Try It Now! 
 
-Test your Internet Speed at http://hasty.ml
+Test your Internet Speed at ~~http://hasty.ml~~
 
 # Read It!
 
